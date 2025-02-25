@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Company>
+    <Manager>
+        <FullName>Artem</FullName>
+        <BirthDate>02.01.2002</BirthDate>
+        <HireDate>17.02.2025</HireDate>
+        <Subordinates/>
+    </Manager>
+    <Other>
+        <FullName>Galya</FullName>
+        <BirthDate>02.01.2002</BirthDate>
+        <HireDate>17.02.2025</HireDate>
+        <Description>big boss</Description>
+    </Other>
+    <Other>
+        <FullName>Gena</FullName>
+        <BirthDate>02.01.2002</BirthDate>
+        <HireDate>17.02.2025</HireDate>
+        <Description>big boss</Description>
+    </Other>
+    <Worker>
+        <FullName>Vasya</FullName>
+        <BirthDate>02.01.2002</BirthDate>
+        <HireDate>17.02.2025</HireDate>
+    </Worker>
+    <Worker>
+        <FullName>Vasya2</FullName>
+        <BirthDate>02.01.2002</BirthDate>
+        <HireDate>17.02.2025</HireDate>
+    </Worker>
+    <Manager>
+        <FullName>Venya</FullName>
+        <BirthDate>02.01.2002</BirthDate>
+        <HireDate>17.02.2025</HireDate>
+        <Subordinates>
+            <Worker>
+                <FullName>Vasya</FullName>
+                <BirthDate>02.01.2002</BirthDate>
+                <HireDate>17.02.2025</HireDate>
+            </Worker>
+            <Worker>
+                <FullName>Vasya2</FullName>
+                <BirthDate>02.01.2002</BirthDate>
+                <HireDate>17.02.2025</HireDate>
+            </Worker>
+        </Subordinates>
+    </Manager>
+</Company>
